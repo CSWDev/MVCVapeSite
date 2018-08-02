@@ -1,0 +1,125 @@
+﻿/* Make .svg files in the carousel display properly in older browsers */
+.carousel-inner .item img[src$=".svg"] {
+    width: 100%;
+}
+
+/* Hide/rearrange for smaller screens */
+@media screen and (max-width: 767px) {
+    /* Hide captions */
+    .carousel-caption {
+        display: none;
+    }
+}
+
+.active {
+    background-color: #CFC87B;
+    color: black;
+}
+
+input[type=text], select, textarea {
+    width: 100%;
+    padding: 12px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    margin-top: 6px;
+    margin-bottom: 16px;
+}
+
+input[type=password], select, textarea {
+    width: 100%;
+    padding: 12px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    margin-top: 6px;
+    margin-bottom: 16px;
+}
+
+input[type=email], select, textarea {
+    width: 100%;
+    padding: 12px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    margin-top: 6px;
+    margin-bottom: 16px;
+}
+
+input[type=submit] {
+    background-color: #CFC87B;
+    color: black;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    width: 50%;
+}
+
+    input[type=submit]:hover {
+        background-color: #f9f9f9;
+    }
+
+
+input {
+    width: 100%;
+    padding: 12px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    margin-top: 6px;
+    margin-bottom: 16px;
+}
+
+footer {
+    display: block;
+    text-align: left;
+}
+
+#icons {
+    float: right;
+}
+
+#aboutLogo {
+    position: relative;
+    float: right;
+}
+
+table {
+    width: 100%;
+}
+
+th {
+    height: 50px;
+}
+
+#productLayout {
+    padding-left: 15%;
+}
+
+#Quantity {
+    width: 15%;
+    text-align: center;
+}
+
+#Add {
+    width: 25%;
+    text-align: center;
+}
+
+#DisplayForm {
+    display: inline-block;
+    text-align: center;
+    width: 35%;
+}
+
+#FormLabel {
+    display: block;
+    float: left;
+}
+
+#AdminLayout {
+    display: inline-block;
+    text-align: center;
+    width: 35%;
+}
