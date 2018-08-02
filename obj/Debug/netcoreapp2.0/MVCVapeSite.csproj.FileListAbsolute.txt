@@ -1,0 +1,11 @@
+C:\Users\Cei\source\repos\MVCVapeSite\MVCVapeSite\bin\Debug\netcoreapp2.0\MVCVapeSite.deps.json
+C:\Users\Cei\source\repos\MVCVapeSite\MVCVapeSite\bin\Debug\netcoreapp2.0\MVCVapeSite.runtimeconfig.json
+C:\Users\Cei\source\repos\MVCVapeSite\MVCVapeSite\bin\Debug\netcoreapp2.0\MVCVapeSite.runtimeconfig.dev.json
+C:\Users\Cei\source\repos\MVCVapeSite\MVCVapeSite\bin\Debug\netcoreapp2.0\MVCVapeSite.dll
+C:\Users\Cei\source\repos\MVCVapeSite\MVCVapeSite\bin\Debug\netcoreapp2.0\MVCVapeSite.pdb
+C:\Users\Cei\source\repos\MVCVapeSite\MVCVapeSite\obj\Debug\netcoreapp2.0\MVCVapeSite.csprojAssemblyReference.cache
+C:\Users\Cei\source\repos\MVCVapeSite\MVCVapeSite\obj\Debug\netcoreapp2.0\MVCVapeSite.csproj.CoreCompileInputs.cache
+C:\Users\Cei\source\repos\MVCVapeSite\MVCVapeSite\obj\Debug\netcoreapp2.0\MVCVapeSite.AssemblyInfoInputs.cache
+C:\Users\Cei\source\repos\MVCVapeSite\MVCVapeSite\obj\Debug\netcoreapp2.0\MVCVapeSite.AssemblyInfo.cs
+C:\Users\Cei\source\repos\MVCVapeSite\MVCVapeSite\obj\Debug\netcoreapp2.0\MVCVapeSite.dll
+C:\Users\Cei\source\repos\MVCVapeSite\MVCVapeSite\obj\Debug\netcoreapp2.0\MVCVapeSite.pdb
