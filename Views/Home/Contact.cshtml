@@ -1,0 +1,56 @@
+﻿@{
+    ViewData["Title"] = "Contact";
+}
+<h2>@ViewData["Title"]</h2>
+<h3>@ViewData["Message"]</h3>
+
+<address>
+    One Microsoft Way<br />
+    Redmond, WA 98052-6399<br />
+    <abbr title="Phone">P:</abbr>
+    425.555.0100
+</address>
+
+<address>
+    <strong>Support:</strong> <a href="mailto:Support@example.com">Support@example.com</a><br />
+    <strong>Marketing:</strong> <a href="mailto:Marketing@example.com">Marketing@example.com</a>
+</address>
+
+
+<h3>Contact Form</h3>
+
+<form id="DisplayForm" action="mailto:xxxx=Contact%20Us&body=">
+    <br />
+
+    <div id="FormLabel">
+        <label for="fname">First Name</label>
+    </div>
+    <input id="fname" name="firstname" placeholder="Fred" type="text" /><br />
+
+    <div id="FormLabel">
+        <label for="lname">Last Name</label>
+    </div>
+    <input id="lname" name="lastname" placeholder="Bloggs" type="text" /><br />
+
+
+    <div id="FormLabel">
+        <label for="email">Email Address</label>
+    </div>
+    <input id="email" name="email" placeholder="example@provider.co.uk" required="" type="text" /><br />
+
+
+    <div id="FormLabel">
+        <label for="country">Country</label>
+    </div>
+    <select id="country" name="country" type="select-one" value="UK"><option value="UK">United Kingdom</option><option value="canada">Canada</option><option value="usa">USA</option><option value="Aus">Australia</option></select><br />
+
+
+    <div id="FormLabel">
+        <label for="body">Comments</label>
+    </div>
+    <textarea id="body" name="body" placeholder="Please enter your comments that you want to talk to us about" required="" rows="4" cols="20"></textarea>
+
+
+    <br />
+    <input type="submit" value="Send" /><br />
+</form>
